@@ -1,17 +1,17 @@
 Archive member included because of file (symbol)
 
-e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
+c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
                               main.o (__udivmodqi4)
-e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
+c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
                               HD44780.o (__divmodhi4)
-e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
-                              e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o (exit)
-e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
+c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
+                              c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o (exit)
+c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
                               main.o (__do_copy_data)
-e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
+c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
                               main.o (__do_clear_bss)
-e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
-                              e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
+                              c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o) (__udivmodhi4)
 
 Allocating common symbols
 Common symbol       size              file
@@ -36,7 +36,7 @@ signature        0x00840000         0x00000400         rw !x
 
 Linker script and memory map
 
-LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+LOAD c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
 LOAD main.o
 LOAD HD44780.o
 LOAD twi.o
@@ -44,9 +44,9 @@ LOAD konwersja.o
 LOAD DS1721.o
 LOAD RTC.o
 LOAD timers.o
-LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a
-LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4\libc.a
-LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a
+LOAD c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a
+LOAD c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4\libc.a
+LOAD c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a
 
 .hash
  *(.hash)
@@ -138,9 +138,9 @@ LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtool
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000      0xd12
+.text           0x00000000      0xcbc
  *(.vectors)
- .vectors       0x00000000       0x26 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+ .vectors       0x00000000       0x26 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
                 0x00000000                __vector_default
                 0x00000000                __vectors
  *(.vectors)
@@ -165,20 +165,20 @@ LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtool
  SORT(*)(.ctors)
  SORT(*)(.dtors)
  *(.init0)
- .init0         0x00000026        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+ .init0         0x00000026        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
                 0x00000026                __init
  *(.init0)
  *(.init1)
  *(.init1)
  *(.init2)
- .init2         0x00000026        0xc e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+ .init2         0x00000026        0xc c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
  *(.init2)
  *(.init3)
  *(.init3)
  *(.init4)
- .init4         0x00000032       0x16 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
+ .init4         0x00000032       0x16 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
                 0x00000032                __do_copy_data
- .init4         0x00000048       0x10 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
+ .init4         0x00000048       0x10 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
                 0x00000048                __do_clear_bss
  *(.init4)
  *(.init5)
@@ -190,10 +190,10 @@ LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtool
  *(.init8)
  *(.init8)
  *(.init9)
- .init9         0x00000058        0x4 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+ .init9         0x00000058        0x4 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
  *(.init9)
  *(.text)
- .text          0x0000005c        0x2 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+ .text          0x0000005c        0x2 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
                 0x0000005c                __vector_1
                 0x0000005c                __vector_12
                 0x0000005c                __bad_interrupt
@@ -223,67 +223,67 @@ LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtool
                 0x000003b8                temp_min
                 0x00000478                temp_max
                 0x000004aa                main
- .text          0x000006d4      0x22c HD44780.o
+ .text          0x000006d4      0x222 HD44780.o
                 0x000006d4                _LCD_OutNibble
                 0x000006fe                _LCD_InNibble
-                0x0000071c                _LCD_Read
-                0x00000740                LCD_ReadStatus
-                0x00000746                _LCD_Write
-                0x00000770                LCD_WriteCommand
-                0x00000776                LCD_WriteData
-                0x0000077c                LCD_ReadData
-                0x00000782                LCD_WriteText
-                0x0000079a                LCD_GoTo2
-                0x000007ac                LCD_GoTo4
-                0x000007c6                LCD_Clear
-                0x000007d4                LCD_Home
-                0x000007e2                LCD_Initalize
-                0x0000084a                itoa
-                0x0000089e                LCD_WriteInt
-                0x000008c0                LCD_TempB
- .text          0x00000900       0x5c twi.o
-                0x00000900                TWI_Start
-                0x0000090c                TWI_Stop
-                0x00000918                TWI_Write
-                0x00000940                TWI_Read
-                0x00000956                TWI_Init
- .text          0x0000095c       0x2a konwersja.o
-                0x0000095c                IntToBcd
-                0x00000972                BcdToInt
- .text          0x00000986      0x1d4 DS1721.o
-                0x00000986                sprawdz_temp_min
-                0x00000a1c                wysw_temp
-                0x00000a74                odczyt_temp
- .text          0x00000b5a      0x13c RTC.o
-                0x00000b5a                wysw_dzien_tyg
-                0x00000bac                wysw_czas
-                0x00000bee                odczyt_daty
-                0x00000c56                odczyt_czasu
- .text          0x00000c96       0x12 timers.o
-                0x00000c96                Timer1_Init
- .text          0x00000ca8        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
- .text          0x00000ca8        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
- .text          0x00000ca8        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
- .text          0x00000ca8        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
- .text          0x00000ca8        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
- .text          0x00000ca8        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
-                0x00000ca8                . = ALIGN (0x2)
+                0x00000712                _LCD_Read
+                0x00000736                LCD_ReadStatus
+                0x0000073c                _LCD_Write
+                0x00000766                LCD_WriteCommand
+                0x0000076c                LCD_WriteData
+                0x00000772                LCD_ReadData
+                0x00000778                LCD_WriteText
+                0x0000079e                LCD_GoTo2
+                0x000007b0                LCD_GoTo4
+                0x000007ca                LCD_Clear
+                0x000007dc                LCD_Home
+                0x000007ee                LCD_Initalize
+                0x00000856                itoa
+                0x00000894                LCD_WriteInt
+                0x000008b6                LCD_TempB
+ .text          0x000008f6       0x5c twi.o
+                0x000008f6                TWI_Start
+                0x00000902                TWI_Stop
+                0x0000090e                TWI_Write
+                0x00000936                TWI_Read
+                0x0000094c                TWI_Init
+ .text          0x00000952       0x22 konwersja.o
+                0x00000952                IntToBcd
+                0x0000095e                BcdToInt
+ .text          0x00000974      0x1da DS1721.o
+                0x00000974                odczyt_temp
+                0x00000a54                wysw_temp
+                0x00000aae                sprawdz_temp_min
+ .text          0x00000b4e       0xf2 RTC.o
+                0x00000b4e                odczyt_czasu
+                0x00000b88                odczyt_daty
+                0x00000bea                wysw_dzien_tyg
+                0x00000c08                wysw_czas
+ .text          0x00000c40       0x12 timers.o
+                0x00000c40                Timer1_Init
+ .text          0x00000c52        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
+ .text          0x00000c52        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
+ .text          0x00000c52        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
+ .text          0x00000c52        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
+ .text          0x00000c52        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
+ .text          0x00000c52        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
+                0x00000c52                . = ALIGN (0x2)
  *(.text.*)
- .text.libgcc   0x00000ca8       0x18 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
-                0x00000ca8                __udivmodqi4
- .text.libgcc   0x00000cc0       0x26 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
-                0x00000cc0                _div
-                0x00000cc0                __divmodhi4
- .text.libgcc   0x00000ce6        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
- .text.libgcc   0x00000ce6        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
- .text.libgcc   0x00000ce6        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
- .text.libgcc   0x00000ce6       0x28 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
-                0x00000ce6                __udivmodhi4
-                0x00000d0e                . = ALIGN (0x2)
+ .text.libgcc   0x00000c52       0x18 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
+                0x00000c52                __udivmodqi4
+ .text.libgcc   0x00000c6a       0x26 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
+                0x00000c6a                _div
+                0x00000c6a                __divmodhi4
+ .text.libgcc   0x00000c90        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
+ .text.libgcc   0x00000c90        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000c90        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000c90       0x28 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
+                0x00000c90                __udivmodhi4
+                0x00000cb8                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00000d0e        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
-                0x00000d0e                _exit
-                0x00000d0e                exit
+ .fini9         0x00000cb8        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
+                0x00000cb8                _exit
+                0x00000cb8                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -302,14 +302,14 @@ LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtool
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00000d0e        0x4 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
+ .fini0         0x00000cb8        0x4 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
  *(.fini0)
-                0x00000d12                _etext = .
+                0x00000cbc                _etext = .
 
-.data           0x00800060       0xe2 load address 0x00000d12
+.data           0x00800060       0xf0 load address 0x00000cbc
                 0x00800060                PROVIDE (__data_start, .)
  *(.data)
- .data          0x00800060        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+ .data          0x00800060        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
  .data          0x00800060       0x68 main.o
                 0x008000bc                temp_0_min
                 0x008000c2                temp_1_min
@@ -317,61 +317,61 @@ LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtool
  .data          0x008000cc        0x0 twi.o
  .data          0x008000cc        0x0 konwersja.o
  .data          0x008000cc        0xb DS1721.o
- .data          0x008000d7       0x6a RTC.o
- .data          0x00800141        0x0 timers.o
- .data          0x00800141        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
- .data          0x00800141        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
- .data          0x00800141        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
- .data          0x00800141        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
- .data          0x00800141        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
- .data          0x00800141        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
+ .data          0x008000d7       0x78 RTC.o
+ .data          0x0080014f        0x0 timers.o
+ .data          0x0080014f        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
+ .data          0x0080014f        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
+ .data          0x0080014f        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
+ .data          0x0080014f        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
+ .data          0x0080014f        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
+ .data          0x0080014f        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
  *(.data*)
  *(.rodata)
  *(.rodata*)
  *(.gnu.linkonce.d*)
-                0x00800142                . = ALIGN (0x2)
- *fill*         0x00800141        0x1 00
-                0x00800142                _edata = .
-                0x00800142                PROVIDE (__data_end, .)
+                0x00800150                . = ALIGN (0x2)
+ *fill*         0x0080014f        0x1 00
+                0x00800150                _edata = .
+                0x00800150                PROVIDE (__data_end, .)
 
-.bss            0x00800142       0x31
-                0x00800142                PROVIDE (__bss_start, .)
+.bss            0x00800150       0x31
+                0x00800150                PROVIDE (__bss_start, .)
  *(.bss)
- .bss           0x00800142        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
- .bss           0x00800142        0x2 main.o
-                0x00800142                rok_temp
-                0x00800143                czas_temp
- .bss           0x00800144       0x15 HD44780.o
- .bss           0x00800159        0x0 twi.o
- .bss           0x00800159        0x0 konwersja.o
- .bss           0x00800159        0x0 DS1721.o
- .bss           0x00800159        0x0 RTC.o
- .bss           0x00800159        0x0 timers.o
- .bss           0x00800159        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
- .bss           0x00800159        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
- .bss           0x00800159        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
- .bss           0x00800159        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
- .bss           0x00800159        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
- .bss           0x00800159        0x0 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800150        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+ .bss           0x00800150        0x2 main.o
+                0x00800150                rok_temp
+                0x00800151                czas_temp
+ .bss           0x00800152       0x15 HD44780.o
+ .bss           0x00800167        0x0 twi.o
+ .bss           0x00800167        0x0 konwersja.o
+ .bss           0x00800167        0x0 DS1721.o
+ .bss           0x00800167        0x0 RTC.o
+ .bss           0x00800167        0x0 timers.o
+ .bss           0x00800167        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodqi4.o)
+ .bss           0x00800167        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_divmodhi4.o)
+ .bss           0x00800167        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_exit.o)
+ .bss           0x00800167        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_copy_data.o)
+ .bss           0x00800167        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_clear_bss.o)
+ .bss           0x00800167        0x0 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/avr4\libgcc.a(_udivmodhi4.o)
  *(.bss*)
  *(COMMON)
- COMMON         0x00800159       0x1a main.o
-                0x00800159                czas_temp_0_min
-                0x0080015c                temp_0
-                0x00800162                czas
-                0x00800165                data
-                0x0080016a                czas_temp_1_min
-                0x0080016d                temp_1
-                0x00800173                PROVIDE (__bss_end, .)
-                0x00000d12                __data_load_start = LOADADDR (.data)
-                0x00000df4                __data_load_end = (__data_load_start + SIZEOF (.data))
+ COMMON         0x00800167       0x1a main.o
+                0x00800167                czas_temp_0_min
+                0x0080016a                temp_0
+                0x00800170                czas
+                0x00800173                data
+                0x00800178                czas_temp_1_min
+                0x0080017b                temp_1
+                0x00800181                PROVIDE (__bss_end, .)
+                0x00000cbc                __data_load_start = LOADADDR (.data)
+                0x00000dac                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x00800173        0x0
-                0x00800173                PROVIDE (__noinit_start, .)
+.noinit         0x00800181        0x0
+                0x00800181                PROVIDE (__noinit_start, .)
  *(.noinit*)
-                0x00800173                PROVIDE (__noinit_end, .)
-                0x00800173                _end = .
-                0x00800173                PROVIDE (__heap_start, .)
+                0x00800181                PROVIDE (__noinit_end, .)
+                0x00800181                _end = .
+                0x00800181                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
  *(.eeprom*)
@@ -391,11 +391,11 @@ LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtool
 
 .stab           0x00000000      0x6cc
  *(.stab)
- .stab          0x00000000      0x6cc e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+ .stab          0x00000000      0x6cc c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
 
 .stabstr        0x00000000       0x90
  *(.stabstr)
- .stabstr       0x00000000       0x90 e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
+ .stabstr       0x00000000       0x90 c:/program files/atmel/avr studio 5.1/extensions/atmel/avrgcc/3.3.1.27/avrtoolchain/bin/../lib/gcc/avr/4.5.1/../../../../avr/lib/avr4/crtm8.o
 
 .stab.excl
  *(.stab.excl)
@@ -459,36 +459,36 @@ LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtool
  .debug_pubnames
                 0x00000353       0x22 timers.o
 
-.debug_info     0x00000000      0xf96
+.debug_info     0x00000000     0x1045
  *(.debug_info)
  .debug_info    0x00000000      0x61f main.o
- .debug_info    0x0000061f      0x4b8 HD44780.o
- .debug_info    0x00000ad7       0xf9 twi.o
- .debug_info    0x00000bd0       0xd8 konwersja.o
- .debug_info    0x00000ca8      0x152 DS1721.o
- .debug_info    0x00000dfa      0x12b RTC.o
- .debug_info    0x00000f25       0x71 timers.o
+ .debug_info    0x0000061f      0x526 HD44780.o
+ .debug_info    0x00000b45      0x109 twi.o
+ .debug_info    0x00000c4e       0xdc konwersja.o
+ .debug_info    0x00000d2a      0x164 DS1721.o
+ .debug_info    0x00000e8e      0x12f RTC.o
+ .debug_info    0x00000fbd       0x88 timers.o
  *(.gnu.linkonce.wi.*)
 
-.debug_abbrev   0x00000000      0x6a3
+.debug_abbrev   0x00000000      0x6fa
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x25c main.o
- .debug_abbrev  0x0000025c      0x1b0 HD44780.o
- .debug_abbrev  0x0000040c       0x76 twi.o
- .debug_abbrev  0x00000482       0x94 konwersja.o
- .debug_abbrev  0x00000516       0xad DS1721.o
- .debug_abbrev  0x000005c3       0xa3 RTC.o
- .debug_abbrev  0x00000666       0x3d timers.o
+ .debug_abbrev  0x0000025c      0x1fe HD44780.o
+ .debug_abbrev  0x0000045a       0x83 twi.o
+ .debug_abbrev  0x000004dd       0x85 konwersja.o
+ .debug_abbrev  0x00000562       0xab DS1721.o
+ .debug_abbrev  0x0000060d       0xa3 RTC.o
+ .debug_abbrev  0x000006b0       0x4a timers.o
 
-.debug_line     0x00000000     0x14f0
+.debug_line     0x00000000     0x17ce
  *(.debug_line)
- .debug_line    0x00000000      0x926 main.o
- .debug_line    0x00000926      0x555 HD44780.o
- .debug_line    0x00000e7b       0xfc twi.o
- .debug_line    0x00000f77       0xbb konwersja.o
- .debug_line    0x00001032      0x216 DS1721.o
- .debug_line    0x00001248      0x229 RTC.o
- .debug_line    0x00001471       0x7f timers.o
+ .debug_line    0x00000000      0x92c main.o
+ .debug_line    0x0000092c      0x60b HD44780.o
+ .debug_line    0x00000f37      0x195 twi.o
+ .debug_line    0x000010cc      0x11b konwersja.o
+ .debug_line    0x000011e7      0x282 DS1721.o
+ .debug_line    0x00001469      0x255 RTC.o
+ .debug_line    0x000016be      0x110 timers.o
 
 .debug_frame    0x00000000      0x300
  *(.debug_frame)
@@ -500,31 +500,31 @@ LOAD e:/programy/windows_7/avr_studio_5/extensions/atmel/avrgcc/3.3.1.27/avrtool
  .debug_frame   0x00000290       0x50 RTC.o
  .debug_frame   0x000002e0       0x20 timers.o
 
-.debug_str      0x00000000      0x451
+.debug_str      0x00000000      0x406
  *(.debug_str)
- .debug_str     0x00000000      0x1c2 main.o
-                                0x21f (size before relaxing)
- .debug_str     0x000001c2      0x15e HD44780.o
-                                0x1ff (size before relaxing)
- .debug_str     0x00000320       0x3a twi.o
-                                 0xdb (size before relaxing)
- .debug_str     0x0000035a       0x23 konwersja.o
-                                 0xc7 (size before relaxing)
- .debug_str     0x0000037d       0x75 DS1721.o
-                                0x11a (size before relaxing)
- .debug_str     0x000003f2       0x45 RTC.o
+ .debug_str     0x00000000      0x1bd main.o
+                                0x21a (size before relaxing)
+ .debug_str     0x000001bd      0x118 HD44780.o
+                                0x233 (size before relaxing)
+ .debug_str     0x000002d5       0x3a twi.o
                                  0xf4 (size before relaxing)
- .debug_str     0x00000437       0x1a timers.o
-                                 0xb1 (size before relaxing)
+ .debug_str     0x0000030f       0x23 konwersja.o
+                                 0xd8 (size before relaxing)
+ .debug_str     0x00000332       0x75 DS1721.o
+                                0x12b (size before relaxing)
+ .debug_str     0x000003a7       0x45 RTC.o
+                                0x105 (size before relaxing)
+ .debug_str     0x000003ec       0x1a timers.o
+                                 0xd3 (size before relaxing)
 
-.debug_loc      0x00000000      0x957
+.debug_loc      0x00000000      0x93c
  *(.debug_loc)
  .debug_loc     0x00000000      0x460 main.o
- .debug_loc     0x00000460      0x282 HD44780.o
- .debug_loc     0x000006e2       0x31 twi.o
- .debug_loc     0x00000713       0x4f konwersja.o
- .debug_loc     0x00000762      0x14c DS1721.o
- .debug_loc     0x000008ae       0xa9 RTC.o
+ .debug_loc     0x00000460      0x26d HD44780.o
+ .debug_loc     0x000006cd       0x3d twi.o
+ .debug_loc     0x0000070a       0x6b konwersja.o
+ .debug_loc     0x00000775       0xfc DS1721.o
+ .debug_loc     0x00000871       0xcb RTC.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -532,9 +532,18 @@ OUTPUT(LCD.elf elf32-avr)
 LOAD linker stubs
 
 .debug_pubtypes
-                0x00000000       0x38
+                0x00000000      0x113
  .debug_pubtypes
                 0x00000000       0x38 main.o
-
-.debug_ranges   0x00000000       0x48
- .debug_ranges  0x00000000       0x48 HD44780.o
+ .debug_pubtypes
+                0x00000038       0x38 HD44780.o
+ .debug_pubtypes
+                0x00000070       0x1e twi.o
+ .debug_pubtypes
+                0x0000008e       0x1e konwersja.o
+ .debug_pubtypes
+                0x000000ac       0x1e DS1721.o
+ .debug_pubtypes
+                0x000000ca       0x1e RTC.o
+ .debug_pubtypes
+                0x000000e8       0x2b timers.o

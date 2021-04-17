@@ -25,6 +25,7 @@
 
 
 
+
 void odczyt_temp(int *,uint8_t);
 void wysw_temp(int *,uint8_t);
 void sprawdz_temp_min(int *,int *,uint8_t *,uint8_t *);

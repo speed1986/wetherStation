@@ -14,8 +14,20 @@
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
     <ToolchainFlavour>Native</ToolchainFlavour>
-    <avrtool />
+    <avrtool>com.atmel.avrdbg.tool.simulator</avrtool>
     <AsfVersion>2.11.1</AsfVersion>
+    <avrtoolinterface />
+    <com_atmel_avrdbg_tool_simulator>
+      <ToolType xmlns="">com.atmel.avrdbg.tool.simulator</ToolType>
+      <ToolName xmlns="">AVR Simulator</ToolName>
+      <ToolNumber xmlns="">
+      </ToolNumber>
+      <Channel xmlns="">
+        <host>127.0.0.1</host>
+        <port>50183</port>
+        <ssl>False</ssl>
+      </Channel>
+    </com_atmel_avrdbg_tool_simulator>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'default' ">
     <OutputPath>bin\default\</OutputPath>
